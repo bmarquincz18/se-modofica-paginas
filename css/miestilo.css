@@ -1,0 +1,105 @@
+#color{
+	color:white;
+	font-family:Baskerville Old Face;
+	background-repeat:repeat;
+}
+.forma{
+    		float:left;
+    	  background-color:#000714;
+		  width: 20%;
+		  height:160px;
+		 }
+		 .blanco{
+	color:white;
+	font-family:Baskerville Old Face;
+	background-repeat:repeat;}
+
+		 .forma2{
+    		float:left;
+    	  background-color:#000714;
+		  width: 80%;
+		  height:160px;}
+		   .izquierda{
+		   	float:left;
+    	  background-color:#000714;
+		  width: 10%;
+		  height:600px;
+
+		 
+		}
+		 
+		 .color{
+	color:white;
+	font-family:Baskerville Old Face;
+	background-repeat:repeat;
+}
+	 .derecha{
+		 	float:left;
+		 	
+		 	justify-content:flex-start;
+		 	 background-color:#04010A;
+		  width: 90%;
+		  height:600px;}
+ .verde{
+	color:white;
+	font-family:Baskerville Old Face;
+	background-repeat:repeat;}
+
+	 .azul{
+	color:white;
+	font-family:Baskerville Old Face;
+	background-repeat:repeat;}
+
+	 .rojo{
+	color:white;
+	font-family:Baskerville Old Face;
+	background-repeat:repeat;}
+
+	 .amarillo{
+	color:white;
+	font-family:Baskerville Old Face;
+	background-repeat:repeat;
+}
+ .rosado{
+	color:pink;
+	font-family:Baskerville Old Face;
+	background:#000;}
+	.casa{
+	color:pink;
+	font-family:Baskerville Old Face;
+	background:#000;}
+
+	.multimedia{
+	color:pink;
+	font-family:Baskerville Old Face;
+	background:#001;}
+
+	.sonido{
+	color:pink;
+	font-family:Baskerville Old Face;
+	background:#001;}
+	.ver{
+	color:pink;
+	font-family:Baskerville Old Face;
+	background:#001;}
+		  
+		  .ver1{
+	color:pink;
+	font-family:Baskerville Old Face;
+	background:#001;}
+		  .ver2{
+	color:pink;
+	font-family:Baskerville Old Face;
+	background:#001;}
+		  .ver3{
+	color:pink;
+	font-family:Baskerville Old Face;
+	background:#001;}
+		  
+		  
+	
+		  
+		  
+		  
+		 
+		 
