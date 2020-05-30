@@ -1,0 +1,78 @@
+#color{
+	color:black;
+	font-family:Ravie;
+	background-repeat:repeat;
+}
+.forma{
+    		float:left;
+    	  background-color:#54E2DE;
+		  width: 100%;
+		  height:100px;
+		 }
+		  #imagen1{
+	color:purple;
+	font-family:Baskerville Old Face;
+	background-repeat:repeat;
+}
+		 
+		 .izquierda{
+		 	float:left;
+		 	
+		 	justify-content:flex-start;
+		 	 background-color:#1FAAA3;
+		  width: 80%;
+		  height:900px;}
+		
+		 
+	#home1{
+	color:red;
+	font-family:Baskerville Old Face;
+	background-repeat:repeat;}
+		  .derecha{
+		 	float:left;
+		 	
+		 	justify-content:flex-start;
+		 	 background-color:#79ED35;
+		  width: 20%;
+		  height:900px;
+		 
+		 	
+		 }
+		 #publicidad1{
+	color:black;
+	font-family:Ravie;
+	background-repeat:repeat;}
+	
+ #galeria1{
+	color:purple;
+	font-family:Baskerville Old Face;
+	background-repeat:repeat;
+background:#ffffff}
+	#boton2{
+	color:red;
+	font-family:Baskerville Old Face;
+	background-repeat:repeat;}
+
+
+	 #video1{
+	color:yellow;
+	font-family:Baskerville Old Face;
+	background-repeat:repeat;
+background:#54E2DE}
+
+#boton3{
+	color:black;
+	font-family:Baskerville Old Face;
+	background-repeat:repeat;}
+
+	 #imagenes1{
+	color:green;
+	font-family:Baskerville Old Face;
+	background-repeat:repeat;
+background:#A359D3}
+
+#boton4{
+	color:black;
+	font-family:Baskerville Old Face;
+	background-repeat:repeat;}
+

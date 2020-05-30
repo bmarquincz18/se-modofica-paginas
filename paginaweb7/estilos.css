@@ -1,0 +1,30 @@
+body{
+    background-color:pink;
+}
+.center{
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+.amarillo{
+    background-color:palevioletred;
+    height: 250px;
+}
+.azul{
+    background-color:rgb(179, 126, 143);
+    height: 250px;
+}
+.rojo{
+    background-color:palevioletred;
+    height: 250px;
+}
+p{
+    color:rgba(173, 0, 43, 0.918);
+    font-family:Bodoni MT Black;
+
+}
+h1{
+    color:rgba(173, 0, 43, 0.918);
+   font-family:Bodoni MT Black;
+
+}

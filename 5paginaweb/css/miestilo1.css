@@ -1,0 +1,26 @@
+.forma{
+    		float:left;
+    	  background-color:#FC0B0B;
+		  width: 100%;
+		  height:100px;
+		 }
+		 .izquierda{
+		 	float:left;
+		 	
+		 	justify-content:flex-start;
+		 	 background-color:#1CE826;
+		  width: 80%;
+		  height:600px;}
+		 
+	
+		  .derecha{
+		 	float:left;
+		 	
+		 	justify-content:flex-start;
+		 	 background-color:#1CE826;
+		  width: 800%;
+		  height:500px;
+		 
+		 	
+		 }
+
